@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **kritikakumari9/kritikakumari9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritikakumari9&label=Profile%20views&color=0e75b6&style=flat" alt="kritikakumari9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kritikakumari9" alt="kritikakumari9" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kritikakumari09" alt="kritikakumari09" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
